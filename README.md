@@ -2,7 +2,7 @@
 Телеграмм-бот с рекомендациями по времени посещения автомойки относительно осадков.
 
 <p align="center">
-      <img src="https://i.ibb.co/MsSKh0Y/8841-carmodelbot-1623767532.jpg" alt="8841-carmodelbot-1623767532" border="0" width="200">
+      <img src="https://i.ibb.co/MsSKh0Y/8841-carmodelbot-1623767532.jpg" alt="8841-carmodelbot-1623767532" border="0" width="250">
 </p>
 
 ## About
