@@ -18,7 +18,7 @@
 
 2. Открыть через IDE папку tg_bot_car_wash-main
 
-5. Запустить файл: "python3.exe main.py"
+5. Запустить файл: "tg_bot_car_wash.py"
 
 6. Перейти по ссылке: https://t.me/Belarus_Wash_Car_bot
 
