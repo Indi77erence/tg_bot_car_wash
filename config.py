@@ -1,2 +1,2 @@
-token_wather = '3c68dc6297e9a1523290377909b9ca91'
-tg_bot_token = '6452698331:AAG9nbIeX2ZC-_PbIJhFTg4SHDQVQ5l-38w'
+token_wather = 'token'
+tg_bot_token = 'token'
